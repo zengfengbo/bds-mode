@@ -1,2 +1,2 @@
 # bds-mode
-emacs bds mode
+emacs [bds](https://github.com/pcingola/BigDataScript) mode
